@@ -1,0 +1,9 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to Voluntarios Entity related prod APIs."
+  contactDetails:
+    name: 
+    email: 
+  onCallSupport:
