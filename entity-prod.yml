@@ -4,6 +4,12 @@ build:
 accounts:
   message: "Welcome to Voluntarios Entity related prod APIs."
   contactDetails:
-    name: 
-    email: 
+    - name: "{cipher}7cd0b5c745b217150ac139e5e5ee190e57fdc6265422822fee7e0fc0fca187fb211604d044327c88edeee8492a3530c4"
+      email: "{cipher}3a2c5e00102b3c1627db1c5e776f89ece7ddacdbda59a7a841ae73908879202cf914d218061543fbe6bf87db08cbd19e"
+    - name: "{cipher}83e90bd6837825618398cd004c21f58e5da03c50b7643a4699d24a0558b34a6f"
+      email: "{cipher}1"
+    - name: "{cipher}8342b017030860adf30d60609282191d392fc1680c78970627f28bffde1a5925"
+      email: "{cipher}c9f72f043b0fb6f1dda9d2daeaf538b6d1752d28669d6370aed887ce9029fa18a1e6108ae77d78bc0afed9f9ff7f35c5"
+    - name: "{cipher}5f8e42292d3efb2344e8e13c060a0562ac25bbc60bf26c2b598bc8f026246286"
+      email: "{cipher}ae24d38ae4ee180591833602aafbec71bdadbf55e14a8f33809ebd89a38ae6d48941827b2ce3e715622a09aaa86e69ff3b996b3187ab5c633f302ec50c9b7931"
   onCallSupport:
