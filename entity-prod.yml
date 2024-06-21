@@ -1,7 +1,7 @@
 build:
   version: "1.0"
 
-accounts:
+entity:
   message: "Welcome to Voluntarios Entity related prod APIs."
   contactDetails:
     - name: "{cipher}7cd0b5c745b217150ac139e5e5ee190e57fdc6265422822fee7e0fc0fca187fb211604d044327c88edeee8492a3530c4"
